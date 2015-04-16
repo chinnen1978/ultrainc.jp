@@ -18,6 +18,9 @@
 <link rel="stylesheet" href="http://ultrainc.jp/wp-content/corporate/main.css">
 <link href='http://fonts.googleapis.com/css?family=Oswald:300' rel='stylesheet' type='text/css'>
 <script src="http://ultrainc.jp/wp-content/corporate/modernizr-custom.min.js"></script>
+<script src="http://ultrainc.jp/wp-content/corporate/respond-lineart.js"></script>
+
+
 <!--[if lte IE 8]>
 <script src="respond.min.js"></script>
 <![endif]-->
